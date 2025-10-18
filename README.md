@@ -14,7 +14,7 @@
 # Arabic Movie Recommendation System
 
 
-Project Motivation
+**Project Motivation**
 
 Arabic cinema, especially Egyptian movies, has a rich history but lacks modern digital tools for movie discovery and personalization.
 This project aims to analyze Arabic movie data and build a recommendation system that helps users find films matching their preferences (e.g., genre, actors, directors, or duration).
